@@ -19,4 +19,4 @@ This will generate 4 windows, each with the objective light source at a differen
 to walk towards the light source, as shown:
 # <img src="img/demo1.png" width="150" height="100">
 # <img src="img/demo2.png" width="150" height="100">
-Left click on the windows and drag to rotate the camera; right click and drag to pull the camera further or closer.
+Left click on the windows and drag to rotate the camera; right click and drag to pull the camera further or closer; ctrl+p to pause/resume.
